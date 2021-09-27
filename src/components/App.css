@@ -1,0 +1,9 @@
+.app {
+    height: 1218px;
+    width: 563px;
+    background-color: black;
+    border-radius: 50px;
+    color: white;
+    padding: 20px;
+    position: relative;
+}
